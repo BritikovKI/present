@@ -1,0 +1,44 @@
+[
+  {
+    "name": "admin___fr",
+    "path": "/admin",
+    "component": "/home/konst/Documents/frontend/present/pages/admin.vue",
+    "chunkName": "pages/admin",
+    "_name": "_6ea7271d"
+  },
+  {
+    "name": "me___fr",
+    "path": "/me",
+    "component": "/home/konst/Documents/frontend/present/pages/me.vue",
+    "chunkName": "pages/me",
+    "_name": "_4f7a2f3a"
+  },
+  {
+    "name": "index___ru",
+    "path": "/ru",
+    "component": "/home/konst/Documents/frontend/present/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3d37d320"
+  },
+  {
+    "name": "admin___ru",
+    "path": "/ru/admin",
+    "component": "/home/konst/Documents/frontend/present/pages/admin.vue",
+    "chunkName": "pages/admin",
+    "_name": "_6ea7271d"
+  },
+  {
+    "name": "me___ru",
+    "path": "/ru/me",
+    "component": "/home/konst/Documents/frontend/present/pages/me.vue",
+    "chunkName": "pages/me",
+    "_name": "_4f7a2f3a"
+  },
+  {
+    "name": "index___fr",
+    "path": "/",
+    "component": "/home/konst/Documents/frontend/present/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3d37d320"
+  }
+]
